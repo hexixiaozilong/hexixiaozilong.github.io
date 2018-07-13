@@ -19,12 +19,12 @@ avatar: https://raw.githubusercontent.com/hexixiaozilong/hexixiaozilong.github.i
 footer-links:
   dribbble: #No dribbble
   email: xzlhexi@gmail.com
-  facebook: #TODO
+  facebook: hexi.shaw
   flickr: #No flicker
-  github: hexixiaozilong/hexixiaozilong.github.io
+  github: hexixiaozilong
   instagram: hexixiaozilong
-  linkedin: #TODO zilog-hexi-xiao-3a6727b8
-  pinterest: #TODO
+  linkedin: zilog-hexi-xiao-3a6727b8
+  pinterest: #No pinterest
   rss: # just type anything here for a working RSS icon
   twitter: # no twitter
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-122293652-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed

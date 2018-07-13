@@ -15,9 +15,10 @@ I found this coffee house located at the 38th floor of a office building. Instea
 
 I'd recommend it as a good way to spend a relaxing weekend afternoon with your friends, whether you're playing card games or getting some work done. Here goes the link for the venue:
 
-Dazhong Dianping: ![_config.yml](http://www.dianping.com/shop/73596121)
+[Dazhong Dianping](http://www.dianping.com/shop/73596121)
 
-Baidu Map: ![_config.yml](http://j.map.baidu.com/5cJcZ)
+[Baidu Map](http://j.map.baidu.com/5cJcZ)
 
 Enjoy Shenzhen,
+
 Hexi

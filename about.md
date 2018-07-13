@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a software developer working at Amazon Web Services, Marketplace! I recently graduated from USC and moved to Seattle. I love playing basketball, going on adventures and drinking cocktails.
 
-### More Information
+### What This Blog Is About
 
-A place to include any other types of information that you'd like to include about yourself.
+Here are some stereotypes about us software developers: Bald head, Casual look, No life, Still single... However, I believe in the opposite. Stereotypes aren't true unless we make them. We are the hardworking contributors that move the world forward. We deserve to live an enjoyable life. Let's start here.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xzlhexi@gmail.com](mailto:xzlhexi@gmail.com)

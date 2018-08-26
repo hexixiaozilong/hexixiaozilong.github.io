@@ -59,7 +59,7 @@ Okay, I need to document the first time when I see a blue sky during this drive.
 
 And finally, I'm here. I don't feel too exciting; I don't feel too sad; I don't feel too different. I just feel ready.
 
-![_config.yml]({{ site.baseurl }}/images/all_the_way_to_the_north/IMG_1323.JPG)
+![_config.yml]({{ site.baseurl }}/images/all_the_way_to_the_north/IMG_1324.JPG)
 
 Here I am, Seattle. Watch out for the storm.
 
